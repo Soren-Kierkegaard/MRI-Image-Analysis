@@ -65,7 +65,7 @@ Le projet à pour but de détecté des tumeurs cancéreuse sur des images IRM pu
 
 *On peut faire mieux avec un peu plus d'entrainement
 
-![Résultats](https://github.com/Soren-Kierkegaard/MRI-Image-Analysis/results.png)
+![Résultats](https://github.com/Soren-Kierkegaard/MRI-Image-Analysis/blob/main/results.png?raw=true)
 
 # Acknowlege
 
