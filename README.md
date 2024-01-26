@@ -69,4 +69,5 @@ Le projet à pour but de détecté des tumeurs cancéreuse sur des images IRM pu
 
 # Acknowlege
 
-- Originly coded in March. 2020
+- Originly coded in July 2018
+- Recoded in March 2020
